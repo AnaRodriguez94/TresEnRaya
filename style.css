@@ -1,0 +1,40 @@
+
+h1 {
+    color: rgb(206, 17, 61); 
+    font-style: italic;
+}
+
+#board {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-color: blueviolet;
+    border-radius: 10px;
+    color: rgb(206, 17, 61);
+    background-color: beige;
+    font-style: italic;
+
+}
+
+#board tr, #board td{
+    border: 1px solid black;
+    border-color: blueviolet;
+    border-radius: 10px;
+    color: rgb(206, 17, 61);
+    background-color: beige;
+    font-style: italic;
+    text-align: center;
+}
+
+#board td {
+    padding: 15px;
+    
+}
+#replay {
+    border: 1px solid rgb(206, 17, 61);
+    border-radius: 10px;
+    color: rgb(206, 17, 61);
+    background-color: beige;
+    font-style: italic;
+}
